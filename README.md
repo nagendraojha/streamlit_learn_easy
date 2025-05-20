@@ -1,5 +1,5 @@
 # 📺 Learn Streamlit the Easy Way!
-If you're new to Streamlit and want to build interactive web apps with Python effortlessly, this YouTube tutorial is a perfect starting point!
+If you're new to Streamlit and want to build interactive web apps with Python effortlessly, this YouTube tutorial https://youtu.be/bZKO8jwOfjg?si=0aeNN5KJy-DILEf_ is a perfect starting point!
 
 ## 🚀 Why this video?
 
